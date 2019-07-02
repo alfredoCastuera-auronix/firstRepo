@@ -7,3 +7,7 @@ utilizando la sentencia push,
 ahora hemos modificado el archivo README.md 
 nuevamente desde github y utilizaremos la 
 sentencia pull para bajaor al directorio de mi pc.
+1.commit de prueba
+
+
+
